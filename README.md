@@ -2,7 +2,7 @@ Hey there!👋
 
 I'm Ayush, a student from Thakur Shyamnarayan Degree College from Mumbai.
 
-👨‍🎓 About Me
+👨‍🎓 About Me <br> <br>
   •🎓 A Computer Science student passionate about technology and self-growth.
   •🌱 Currently exploring multiple programming languages.
   •💡 Interested in building projects while learning.
