@@ -1,6 +1,6 @@
-<pre> Hey there!👋
-
-I'm Ayush, a student from Thakur Shyamnarayan Degree College from Mumbai.
+Hey there!👋
+<pre>
+ I'm Ayush, a student from Thakur Shyamnarayan Degree College from Mumbai.
 
 👨‍🎓 About 
   •🎓 A Computer Science student passionate about technology and self-growth.
