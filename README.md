@@ -32,7 +32,7 @@ I like learning how things work, writing code, and building simple projects whil
 </div>
 
 
-<h2 align="left">Tools & IDEs</h2>
+<h2 align="left">🛠️Tools & IDEs</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
