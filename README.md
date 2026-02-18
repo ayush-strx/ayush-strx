@@ -1,4 +1,4 @@
-<p align="left">Hey! there👋 </p>
+<p align="left"> <b>vHey! there👋 </b> </p>
 <p align="left"> I’m Ayush, a Computer Science Student from Thakur Shyam Narayan degree college in Mumbai.<br>
 I like learning how things work, writing code, and building simple projects while improving step by step.</p>
 <hr>
