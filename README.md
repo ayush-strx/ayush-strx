@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="125" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB0c2h2cTZjdzh1ZzB3Y3o5ZW51cHZybDFydjg4b3Y5MGRwb3E0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<img align="right" height="125" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB0c2h2cTZjdzh1ZzB3Y3o5ZW51cHZybDFydjg4b3Y5MGRwb3E0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
 
