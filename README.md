@@ -1,6 +1,5 @@
- <p align="left">
-<h1 align="left">Hey! there👋 </h1>
-I’m Ayush, a Computer Science Student from Thakur Shyam Narayan degree college in Mumbai.<br>
+<p align="left">Hey! there👋 </p>
+<p align="left"> I’m Ayush, a Computer Science Student from Thakur Shyam Narayan degree college in Mumbai.<br>
 I like learning how things work, writing code, and building simple projects while improving step by step.</p>
 <hr>
 <h2 align="left">These days I’m focused on: </h2>
