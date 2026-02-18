@@ -1,12 +1,19 @@
-<h1 align="left">Hey! 👋 I'm Ayush</h1>
+<h1 align="left">Hey! there👋 </h1>
 
+<h2 align="left"> About me </h2>
+<p align="left"> I’m Ayush, a Computer Science Student from Thakur Shyam Narayan degree college in Mumbai.<br>
+I like learning how things work, writing code, and building simple projects while improving step by step.</p>
+<hr>
+<h2 align="left">These days I’m focused on: </h2>
 
-<p align="left">A  Computer Science Student from Thakur Shyamnarayan Degree College in Mumbai.</p>
-
-
-<h2 align="left">About me</h2>
-
-<p align="left">📚 Currently exploring multiple programming languages.<br>💡 Interested in building projects while learning.<br>🎯Explore different fields of Computer Science & build strong programming and problem-solving skills.</p>
+<p align="left">
+  <ul>
+  <li>Core programming concepts</li>
+  <li>Python and C++ Fundamentals </li>
+  <li>Small practice projects and experiments</li>
+  <li>Building consistency and problem-solving skills</li>
+</ul>
+</p>
 <hr>
 <h3 align="left">👨‍💻 Learning Journey</h3>
 
@@ -36,7 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
 <hr>
 <h4 align="center">🔗Connect with Me</h4>
 <div align="center">
