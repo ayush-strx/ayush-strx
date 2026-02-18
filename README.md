@@ -1,20 +1,14 @@
 <h1 align="left">Hey! 👋 I'm Ayush</h1>
 
-###
 
 <p align="left">A  Computer Science Student from Thakur Shyamnarayan Degree College in Mumbai.</p>
 
 
 <h2 align="left">About me</h2>
-###
 
 <p align="left">📚 Currently exploring multiple programming languages.<br>💡 Interested in building projects while learning.<br>🎯Explore different fields of Computer Science & build strong programming and problem-solving skills.</p>
-###
-
 <hr>
 <h3 align="left">👨‍💻 Learning Journey</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -30,11 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
 
 <h3 align="left">Tools & IDEs</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -46,12 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
 <hr>
 <h4 align="center">🔗Connect with Me</h4>
-
-###
-
 <div align="center">
   <a href="ayushsanjayt@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
