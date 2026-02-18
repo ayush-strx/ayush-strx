@@ -17,6 +17,8 @@
 <p align="left">📚 Currently exploring multiple programming languages.<br>💡 Interested in building projects while learning.<br>🎯Explore different fields of Computer Science & build strong programming and problem-solving skills.</p>
 
 ###
+<br>
+<br>
 <hr>
 <h3 align="left">👨‍💻 Learning Journey</h3>
 
