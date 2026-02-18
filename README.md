@@ -4,21 +4,13 @@
 
 <p align="left">A  Computer Science Student from Thakur Shyamnarayan Degree College in Mumbai.</p>
 
-###
 
 <h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="125" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB0c2h2cTZjdzh1ZzB3Y3o5ZW51cHZybDFydjg4b3Y5MGRwb3E0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-
 ###
 
 <p align="left">📚 Currently exploring multiple programming languages.<br>💡 Interested in building projects while learning.<br>🎯Explore different fields of Computer Science & build strong programming and problem-solving skills.</p>
-
 ###
-<br>
-<br>
+
 <hr>
 <h3 align="left">👨‍💻 Learning Journey</h3>
 
