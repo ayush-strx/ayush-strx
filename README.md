@@ -15,7 +15,7 @@ I like learning how things work, writing code, and building simple projects whil
 </ul>
 </p>
 <hr>
-<h3 align="left">👨‍💻 Learning Journey</h3>
+<h2 align="left">👨‍💻Skills in Progress</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -32,7 +32,7 @@ I like learning how things work, writing code, and building simple projects whil
 </div>
 
 
-<h3 align="left">Tools & IDEs</h3>
+<h2 align="left">Tools & IDEs</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -44,7 +44,7 @@ I like learning how things work, writing code, and building simple projects whil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 <hr>
-<h4 align="center">🔗Connect with Me</h4>
+<h2 align="center">🔗Connect with Me</h2>
 <div align="center">
   <a href="ayushsanjayt@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
