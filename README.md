@@ -10,7 +10,6 @@ I like learning how things work, writing code, and building simple projects whil
     <li>Exploring Web Development and backend development concepts</li>
     <li>Improving problem-solving skills through coding practice</li>
     <li>Building small projects and practical experiments</li>
-    <li>Learning Data Structures & Algorithms step by step</li>
     <li>Building consistency and growing as a Software Developer</li>
   </ul>
 </p>
