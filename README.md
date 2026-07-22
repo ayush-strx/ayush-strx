@@ -2,15 +2,17 @@
 <p align="left"> I’m Ayush, a Computer Science Student from Thakur Shyam Narayan degree college in Mumbai.<br>
 I like learning how things work, writing code, and building simple projects while improving step by step.</p>
 <hr>
-<h2 align="left">These days I’m focused on: </h2>
+<h2 align="left">These days I’m focused on:</h2>
 
 <p align="left">
   <ul>
-  <li>Core programming concepts</li>
-  <li>Python and C++ Fundamentals </li>
-  <li>Small practice projects and experiments</li>
-  <li>Building consistency and problem-solving skills</li>
-</ul>
+    <li>Learning Python and strengthening programming fundamentals</li>
+    <li>Exploring Web Development and backend development concepts</li>
+    <li>Improving problem-solving skills through coding practice</li>
+    <li>Building small projects and practical experiments</li>
+    <li>Learning Data Structures & Algorithms step by step</li>
+    <li>Building consistency and growing as a Software Developer</li>
+  </ul>
 </p>
 <hr>
 <h2 align="left">👨‍💻Languages:</h2>
