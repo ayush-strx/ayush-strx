@@ -13,10 +13,12 @@ I like learning how things work, writing code, and building simple projects whil
 </ul>
 </p>
 <hr>
-<h2 align="left">👨‍💻Skills in Progress</h2>
+<h2 align="left">👨‍💻Languages:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -30,7 +32,7 @@ I like learning how things work, writing code, and building simple projects whil
 </div>
 
 
-<h2 align="left">🛠️Tools & IDEs</h2>
+<h2 align="left">🛠️Tools & IDEs:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -43,8 +45,7 @@ I like learning how things work, writing code, and building simple projects whil
 </div>
 
 
-<h2 align="left">📊 Github Stats</h2>
-
+<h2 align="left">📊 Github Stats:</h2>
 <p>
 <img align="center" 
 src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-strx&hide_border=true&background=FFFFFF00&theme=transparent" 
