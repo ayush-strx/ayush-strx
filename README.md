@@ -18,7 +18,7 @@ I like learning how things work, writing code, and building simple projects whil
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://www.jsdelivr.com/package/npm/@programming-languages-logos/java" height="40" alt="java logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5ycLnA5ZgVA5z0ZwbsuUtMnrQDdk9xynV7pa2yA1ow&s=10" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
