@@ -44,12 +44,3 @@ I like learning how things work, writing code, and building simple projects whil
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
-
-<h2 align="left">📊 Github Stats:</h2>
-<p>
-<img align="center" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-strx&hide_border=true&background=FFFFFF00&theme=transparent" 
-alt="ayush-strx" />
-</p>
-
